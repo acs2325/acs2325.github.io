@@ -1,0 +1,90 @@
+{
+    "GOVERNMENT": {
+        "$200": {
+            "Q": "The president heads this branch of government",
+            "A": "the executive"
+        },
+        "$400": {
+            "Q": "Dividing voting districts unfairly, named for Eldridge Gerry's salamander-shaped district",
+            "A": "gerrymandering"
+        },
+        "$600": {
+            "Q": "=",
+            "A": "a veto"
+        },
+        "$800": {
+            "Q": "Long-winded senators use this practice of extended debates to block bills",
+            "A": "filibuster"
+        },
+        "$1000": {
+            "Q": "Porcine term that describes unnecessary projects passed through Congress",
+            "A": "pork barrel"
+        }
+    },
+    "WORLD WAR II": {
+        "$200": {
+            "Q": "Implicated in plot against Hitler, this \"Desert Fox\" committed suicide",
+            "A": "Rommel"
+        },
+        "$400": {
+            "Q": "This country's forces captured Berlin in 1945",
+            "A": "Russia"
+        },
+        "$600": {
+            "Q": "TV series using this Richard Rodgers theme:[Instrumental music plays]",
+            "A": "Victory at Sea"
+        },
+        "$800": {
+            "Q": "Eisenhower & MacArthur's superior during the war, he later arranged Europe's recovery plan",
+            "A": "(Gen. George) Marshall"
+        },
+        "$1000": {
+            "Q": "Leader of Yugoslav resistance forces",
+            "A": "(Marshal) Tito"
+        }
+    },
+    "THE GULF OF MEXICO": {
+        "$200": {
+            "Q": "This powerful warm current flows north from the Gulf into the Atlantic Ocean",
+            "A": "the Gulf Stream"
+        },
+        "$400": {
+            "Q": "The western end of this island forms a partial divider between the Gulf & the Caribbean Sea",
+            "A": "Cuba"
+        },
+        "$600": {
+            "Q": "This 76,000-square-mile peninsula juts up into the Gulf's south end",
+            "A": "the Yucatan Peninsula"
+        },
+        "$800": {
+            "Q": "The world's largest fish, these Gulf residents, can gather in large groups to feed near the mouth of the Mississippi River",
+            "A": "whale sharks"
+        },
+        "$1000": {
+            "Q": "In 1559 a Spanish expedition settled for about 2 years at what is today this city near the western end of Florida's Panhandle",
+            "A": "Pensacola"
+        }
+    },
+    "MONTHLY PEOPLE, REAL & IMAGINED": {
+        "$200": {
+            "Q": "A monthly person herself, Louisa May Alcott gave her characters Jo & Meg this last name",
+            "A": "March"
+        },
+        "$400": {
+            "Q": "Aubrey Plaza, getting married as this character on \"Parks & Rec\": \"I want to spend the rest of my life with you. Is that cool?\"",
+            "A": "April Ludgate"
+        },
+        "$600": {
+            "Q": "The first woman to chair the U.K. Conservative Party, she led even more after becoming prime minister in 2016",
+            "A": "Theresa May"
+        },
+        "$800": {
+            "Q": "This was revealed as Offred's real name on TV's \"The Handmaid's Tale\", but not in the novel",
+            "A": "June"
+        },
+        "$1000": {
+            "Q": "\"Married\", an 1884 collection of stories by this Swede, got him prosecuted for blasphemy",
+            "A": "August Strindberg"
+        }
+    }
+}

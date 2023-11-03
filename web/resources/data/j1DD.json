@@ -1,0 +1,46 @@
+{
+    "ACTORS & ROLES": {
+        "$100": {
+            "Q": "While Anthony Perkins was in New York, an unnamed person did this film's shower scene murder",
+            "A": "Psycho"
+        },
+        "$200": {
+            "Q": "She met Chevy Chase on \"Vacation\", but now spends her time with Billy Joel",
+            "A": "Christie Brinkley"
+        },
+        "$300": {
+            "Q": "His roles have included a palm tree pitcher, an out-of-towner & a good neighbor",
+            "A": "Jack Lemmon"
+        },
+        "$400": {
+            "Q": "In film, he was \"The Dresser\" for Albert Finney's \"Sir\"",
+            "A": "Tom Courtenay"
+        },
+        "$500": {
+            "Q": "On film & TV, they played Alice of \"Alice Doesn't Live Here Anymore\"",
+            "A": "Ellen Burstyn and Linda Lavin"
+        }
+    },
+    "CANNERY": {
+        "$100": {
+            "Q": "This brand with an insect name cans a few varieties of albacore tuna including chunk white",
+            "A": "Bumble Bee"
+        },
+        "$200": {
+            "Q": "Just outside of Porto in this country, Conservas Pinhais has been canning sardines in tomato sauce since 1920",
+            "A": "Portugal"
+        },
+        "$300": {
+            "Q": "A high-pressure machine is called this type of retort since it cooks fish in the cans with water vapor",
+            "A": "steam"
+        },
+        "$400": {
+            "Q": "Seen here is a moody photo of a cannery on this Alaskan island that lends its name to a brown bear",
+            "A": "Kodiak (Island)"
+        },
+        "$500": {
+            "Q": "This author said of Monterey, \"The corrugated iron of the canneries glows with the pearly lucence of platinum\"",
+            "A": "John Steinbeck"
+        }
+    }
+}

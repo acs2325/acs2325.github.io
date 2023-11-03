@@ -1,0 +1,200 @@
+{
+    "SPORTS": {
+        "$100": {
+            "Q": "Sporting event held in years 392 & 1896 but not in between",
+            "A": "the Olympics"
+        },
+        "$200": {
+            "Q": "The \"Tour de France\" features these vehicles",
+            "A": "bicycles"
+        },
+        "$300": {
+            "Q": "Unusual characteristic of outfielder Pete Gray who played for the St. Louis Browns in 1945",
+            "A": "having one arm"
+        },
+        "$400": {
+            "Q": "Undefeated bare-knuckle boxing champ in 1880s, he lost his 1st fight with gloves",
+            "A": "(John L.) Sullivan"
+        },
+        "$500": {
+            "Q": "Massachusetts holiday on which the Boston Marathon is run",
+            "A": "Patriots Day"
+        }
+    },
+    "POTENT POTABLES": {
+        "$100": {
+            "Q": "The grain from which sake wine is made",
+            "A": "rice"
+        },
+        "$200": {
+            "Q": "Though most today don't drink because of Muslim law, these people first discovered distillation",
+            "A": "the Arabs"
+        },
+        "$300": {
+            "Q": "Kosher wine company owned by Coca-Cola of New York",
+            "A": "Mogen David"
+        },
+        "$400": {
+            "Q": "Flavoring common to pernod, ouzo, & arak",
+            "A": "licorice (anise)"
+        },
+        "$500": {
+            "Q": "Blended brandy that comes from a French district of the same name",
+            "A": "Cognac"
+        }
+    },
+    "CITIES": {
+        "$100": {
+            "Q": "It was America's 4th largest city when absorbed by New York in 1898",
+            "A": "Brooklyn"
+        },
+        "$200": {
+            "Q": "The Russians renamed it Volgograd after a Soviet dictator was discredited",
+            "A": "Stalingrad"
+        },
+        "$300": {
+            "Q": "Once the \"Paris of the Orient\", it's now called Ho Chi Minh City",
+            "A": "Saigon"
+        },
+        "$400": {
+            "Q": "The Dutch built canals in this Indonesian capital they called Batavia",
+            "A": "Jakarta"
+        },
+        "$500": {
+            "Q": "Kinshasa, capital of Zaire, was originally named this after a Belgian king",
+            "A": "Leopoldville"
+        }
+    },
+    "POTPOURRI": {
+        "$100": {
+            "Q": "Location of the metatarsal arch",
+            "A": "the foot"
+        },
+        "$200": {
+            "Q": "Color of the last & highest key on a piano",
+            "A": "white"
+        },
+        "$300": {
+            "Q": "In song, they were asked to \"come out tonight, come out tonight\"",
+            "A": "Buffalo gals"
+        },
+        "$400": {
+            "Q": "Originally it was worn by both men & women, then just men, then only Roman citizens",
+            "A": "togas"
+        },
+        "$500": {
+            "Q": "Symbol in common to the coat of arms of the Medici family & pawnshop signs",
+            "A": "three gold balls"
+        }
+    },
+    "POETIC SUBJECTS": {
+        "$100": {
+            "Q": "Stephen Crane wrote, \"Fast rode\" one of these men, \"ever waving an eager sword, 'to save my lady!\"'",
+            "A": "a knight"
+        },
+        "$200": {
+            "Q": "\"Ma\u00eetre corbeau, sur un arbre perch\u00e9\", begins a Jean de la Fontaine poem about this type of bird",
+            "A": "a crow (raven)"
+        },
+        "$300": {
+            "Q": "In haiku, hana are blossoms in general but most likely these, as in Buson's these \"having fallen the temple belongs to the branches\"",
+            "A": "cherry blossoms"
+        },
+        "$400": {
+            "Q": "\"Not like the brazen giant of Greek fame\", says Emma Lazarus' poem called \"The New\" this",
+            "A": "Colossus"
+        },
+        "$500": {
+            "Q": "Time to release this sea creature, a Tennyson poem subject said to be a mile & a half wide with ship-crushing tentacles",
+            "A": "the kraken"
+        }
+    },
+    "THE ROCKEFELLERS": {
+        "$100": {
+            "Q": "One of the world's wealthiest men, John D. Rockefeller made his fortune in this business",
+            "A": "oil"
+        },
+        "$200": {
+            "Q": "In the 1970s this member of the Rockefeller family served briefly as vice president",
+            "A": "Nelson"
+        },
+        "$300": {
+            "Q": "Abby Aldrich Rockefeller was a founder of this NYC museum in 1929 & her son David was a longtime donor & trustee",
+            "A": "the MoMA (the Museum of Modern Art)"
+        },
+        "$400": {
+            "Q": "From 1985 to 2015 Jay Rockefeller, also known as John D. Rockefeller IV, was a senator from this state",
+            "A": "West Virginia"
+        },
+        "$500": {
+            "Q": "Living to the age of 97, John D. was born when this man of Dutch descent was president, & died during FDR's second term",
+            "A": "Van Buren"
+        }
+    },
+    "TREES COMPANY": {
+        "$100": {
+            "Q": "It can refer to the uppermost layer of overlapping tree branches, or a cloth covering suspended over a bed",
+            "A": "a canopy"
+        },
+        "$200": {
+            "Q": "FBI is shorthand for 3 common decomposers of dead trees: fungi, bacteria & these",
+            "A": "insects"
+        },
+        "$300": {
+            "Q": "Pine trees are evergreens & also classified as these, for the scaly structures that house seeds",
+            "A": "conifers"
+        },
+        "$400": {
+            "Q": "One of the 3 gifts of the Magi, this aromatic resin whose very name suggests sweet aroma comes from trees of the genus Boswellia",
+            "A": "frankincense"
+        },
+        "$500": {
+            "Q": "\"Green is the plane-tree in the square, the other trees are brown / They droop & pine for country air / The plane-tree loves it\" here",
+            "A": "the town"
+        }
+    },
+    "WHO WAS THAT MASKED MAN?": {
+        "$100": {
+            "Q": "In 2004's \"Spider-Man 2\", this actor gets unmasked in front of Kirsten Dunst, James Franco & a trainload of New Yorkers",
+            "A": "(Tobey) Maguire"
+        },
+        "$200": {
+            "Q": "In 2017's \"Spider-Man: Homecoming\", this actor accidentally appears unmasked in front of his pal Ned",
+            "A": "Tom Holland"
+        },
+        "$300": {
+            "Q": "In 2012's \"The Amazing Spider-Man\", this actor gets unmasked by NYPD captain Denis Leary",
+            "A": "(Andrew) Garfield"
+        },
+        "$400": {
+            "Q": "(I'm Shameik Moore.) In \"Spider-Man Across the Spider-Verse\" I once again don the spider-mask as this Brooklyn teenager who follows in Peter Parker's webbed footsteps",
+            "A": "Miles Morales"
+        },
+        "$500": {
+            "Q": "He's the other title guy alongside Chris O'Donnell in 1997's \"Batman & Robin\", & he wishes we hadn't reminded you",
+            "A": "George Clooney"
+        }
+    },
+    "YES, OUI": {
+        "$100": {
+            "Q": "Evet in Izmir & Istanbul",
+            "A": "Turkish"
+        },
+        "$200": {
+            "Q": "Hai on Hokkaido",
+            "A": "Japanese"
+        },
+        "$300": {
+            "Q": "Tak in Gdansk",
+            "A": "Polish"
+        },
+        "$400": {
+            "Q": "Naiin the Cyclades",
+            "A": "Greek"
+        },
+        "$500": {
+            "Q": "Bai in Bilbao & the Western Pyrenees",
+            "A": "Basque"
+        }
+    }
+}

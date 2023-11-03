@@ -1,0 +1,156 @@
+{
+    "ANATOMY": {
+        "$200": {
+            "Q": "Straw-colored portion of the blood which stores longer than whole blood",
+            "A": "plasma"
+        },
+        "$400": {
+            "Q": "Any of the bones which make up spinal column",
+            "A": "vertebrae"
+        },
+        "$600": {
+            "Q": "Blood enters it through renal artery, exits cleansed through renal vein",
+            "A": "the kidney"
+        },
+        "$800": {
+            "Q": "Hormone found in blood in large amounts during periods of fright or anger",
+            "A": "adrenaline"
+        },
+        "$1000": {
+            "Q": "Gland at the base of brain which regulates growth",
+            "A": "the pituitary"
+        }
+    },
+    "ABBREVIATIONS": {
+        "$200": {
+            "Q": "A government department or a '63 Paul Newman film",
+            "A": "HUD"
+        },
+        "$400": {
+            "Q": "What \"OPEC\" stands for",
+            "A": "Organization of Petroleum Exporting Countries"
+        },
+        "$600": {
+            "Q": "From the Latin, it means \"which was to be demonstrated\"",
+            "A": "QED (quod erat demonstrandum)"
+        },
+        "$800": {
+            "Q": "What \"RDA\" refers to on the side of your cereal box",
+            "A": "recommended daily allowance (or recommended dietary allowance)"
+        },
+        "$1000": {
+            "Q": "If your car is delivered \"F.O.B.\", it comes this way",
+            "A": "free on board"
+        }
+    },
+    "11-LETTER WORDS": {
+        "$200": {
+            "Q": "Algebra, calculus, or trigonometry",
+            "A": "mathematics"
+        },
+        "$400": {
+            "Q": "Commencement speech usually given by top student",
+            "A": "the valedictory"
+        },
+        "$600": {
+            "Q": "Wild uproar or total tumult",
+            "A": "pandemonium"
+        },
+        "$800": {
+            "Q": "Not open, but secret, like Romeo & Juliet's love affair",
+            "A": "clandestine"
+        },
+        "$1000": {
+            "Q": "From Ceylon's former name, it's gift for finding valuable things unexpectedly",
+            "A": "serendipity"
+        }
+    },
+    "HISTORY": {
+        "$200": {
+            "Q": "To protect an ancestral cemetery, in 1910 attorney Lyda Conley became the 3rd woman & 1st Native American to argue a case here",
+            "A": "the Supreme Court (of the United States)"
+        },
+        "$400": {
+            "Q": "Fake guns nicknamed for this peaceful religious group fooled the Union into canceling an 1862 attack on Centerville, Virginia",
+            "A": "the Quakers"
+        },
+        "$600": {
+            "Q": "The byname of this 11th century Castilian military leader, a national hero of Spain, is from Arabic for \"lord\"",
+            "A": "El Cid"
+        },
+        "$800": {
+            "Q": "This paramilitary group of young people was used in the 1960s to enforce the Cultural Revolution",
+            "A": "the Red Guard"
+        },
+        "$1000": {
+            "Q": "A 6th c. outbreak of bubonic plague bears the name of this Byzantine Emperor; it nearly killed him & devastated his empire",
+            "A": "Justinian"
+        }
+    },
+    "CHEMISTRY": {
+        "$200": {
+            "Q": "Water hardness is determined by the amount of minerals it contains, mostly carbonates of magnesium & this element",
+            "A": "calcium"
+        },
+        "$400": {
+            "Q": "Formerly used as an anesthetic & still used by bad guys on TV, it has the chemical formula CHCl3",
+            "A": "chloroform"
+        },
+        "$600": {
+            "Q": "The Haber process was developed prior to World War I to produce this pungent gas from nitrogen & hydrogen",
+            "A": "ammonia"
+        },
+        "$800": {
+            "Q": "Lighten \"lightning\" by a few letters & you have this polymer that bonds with cellulose to make wood",
+            "A": "lignin"
+        },
+        "$1000": {
+            "Q": "This Italian's law says that equal volumes of gases at the same temp. & pressure have the same \"number\" of molecules",
+            "A": "Avogadro"
+        }
+    },
+    "POP INSTRUMENTALS": {
+        "$200": {
+            "Q": "In January 2000 Kenny G blew into the Top 10 with a version of this New Year's favorite",
+            "A": "\"Auld Lang Syne\""
+        },
+        "$400": {
+            "Q": "A hit from \"Deliverance\" is called \"Dueling\" these, though in the movie, one duellist is playing guitar",
+            "A": "banjos"
+        },
+        "$600": {
+            "Q": "This almost lyric-free 2013 hit by Brooklyn producer/DJ Baauer has part of Manhattan in its title",
+            "A": "the \"Harlem Shake\""
+        },
+        "$800": {
+            "Q": "This monster hit by the Edgar Winter Group got its title from the way it was pieced together in the editing process",
+            "A": "\"Frankenstein\""
+        },
+        "$1000": {
+            "Q": "In 1958 The Champs had a No. 1 hit with this sax-heavy tune whose only lyric is the title booze",
+            "A": "\"Tequila\""
+        }
+    },
+    "PLAY \"FREE\" WORDS": {
+        "$200": {
+            "Q": "In 1993 Gerald Perry became the first NFL player to sign with a new team as one of these under a new unrestricted system",
+            "A": "a free agent"
+        },
+        "$400": {
+            "Q": "Also in the title of a classic Miles Davis track, it's a person who likes to mooch complimentary food & drink",
+            "A": "a freeloader"
+        },
+        "$600": {
+            "Q": "This cable channel was once known as ABC Family",
+            "A": "Freeform"
+        },
+        "$800": {
+            "Q": "C.S. Lewis wrote that this ability is \"the only thing that makes possible any love or goodness or joy worth having\"",
+            "A": "free will"
+        },
+        "$1000": {
+            "Q": "A kind of shoe is in this name for a pirate",
+            "A": "a freebooter"
+        }
+    }
+}
