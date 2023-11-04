@@ -6,7 +6,7 @@
     <title>Our superheroes</title>
 
     <link href="https://fonts.googleapis.com/css?family=Faster+One" rel="stylesheet">
-    <link rel="stylesheet" href="./resources/css/index.css">
+    <link rel="stylesheet" href="../web/resources/css/index.css">
   </head>
 
   <body>
@@ -15,15 +15,28 @@
 
       </header>
 
-      <section>
+      <table>
+        <tr class="cats">
+        </tr>
+        <tr class="one">
+        </tr>
+        <tr class="two">
+        </tr>
+        <tr class="three">
+        </tr>
+        <tr class="four">
+        </tr>
+        <tr class="five">
+        </tr>
 
-      </section>
+      </table>
+
 
     <script>
 
     async function populate() {
 
-      const requestURL = 'https://github.com/acs2325/Jeopardy/blob/master/web/resources/data/test_j1.json';
+      const requestURL = 'https://acs2325.github.io/web/resources/data/test_j1.json';
       const request = new Request(requestURL);
 
       const response = await fetch(request);
@@ -31,18 +44,81 @@
 
       const jep = JSON.parse(jepText);
       populateHeader(jep);
+      populateBoard(jep);
 
+    }
+
+    function randomIntFromInterval(min, max) { // min and max included 
+      return Math.floor(Math.random() * (max - min + 1) + min)
     }
 
     function populateHeader(obj) {
       const header = document.querySelector('header');
       const myH1 = document.createElement('h1');
-      myH1.textContent = obj.SPORTS;
+      myH1.textContent = `THIS... IS... JEOPARDY!!!!`;
       header.appendChild(myH1);
+    }
 
-      const myPara = document.createElement('p');
-      myPara.textContent = `Q: ${obj.Q} // Formed: ${obj.A}`;
-      header.appendChild(myPara);
+    function populateBoard(obj) {
+
+      const catrow = document.querySelector('tr.cats');
+      const one   = document.querySelector('tr.one');
+      const two   = document.querySelector('tr.two');
+      const three = document.querySelector('tr.three');
+      const four  = document.querySelector('tr.four');
+      const five  = document.querySelector('tr.five');
+
+      for (let i = 0; i < 6; i++) { 
+
+          const rndCat = randomIntFromInterval(0, 1);
+
+          const cat1 = document.createElement('th');
+          cat1.textContent = obj["J1"][rndCat]["cat"];
+          catrow.appendChild(cat1);
+          const questions = obj["J1"][rndCat]["questions"];
+
+          const q1 = questions[0];
+          const q2 = questions[1];
+          const q3 = questions[2];
+          const q4 = questions[3];
+          const q5 = questions[4];
+
+          const clue1   = document.createElement('td');
+          clue1.innerHTML = `${q1["value"]}`;
+          clue1.onclick = function () {
+            clue1.innerHTML = `Q: ${q1["Q"]} \n A: ${q1["A"]}`;
+          };
+          one.appendChild(clue1);
+
+          const clue2   = document.createElement('td');
+          clue2.innerHTML = `${q2["value"]}`;
+          clue2.onclick = function () {
+            clue2.innerHTML = `Q: ${q2["Q"]} \n A: ${q2["A"]}`;
+          };
+          two.appendChild(clue2);
+
+          const clue3   = document.createElement('td');
+          clue3.innerHTML = `${q3["value"]}`;
+          clue3.onclick = function () {
+            clue3.innerHTML = `Q: ${q3["Q"]} \n A: ${q3["A"]}`;
+          };
+          three.appendChild(clue3);
+
+          const clue4   = document.createElement('td');
+          clue4.innerHTML = `${q4["value"]}`;
+          clue4.onclick = function () {
+            clue4.innerHTML = `Q: ${q4["Q"]} \n A: ${q4["A"]}`;
+          };
+          four.appendChild(clue4);
+
+          const clue5   = document.createElement('td');
+          clue5.innerHTML = `${q5["value"]}`;
+          clue5.onclick = function () {
+            clue5.innerHTML = `Q: ${q5["Q"]} \n A: ${q5["A"]}`;
+          };
+          five.appendChild(clue5);
+      }
+
     }
 
     populate();
