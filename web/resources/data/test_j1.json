@@ -1,5 +1,5 @@
 {
-    "hmm": "does it work at all?",
+    "title": "welcome to jeopardy",
     "J1": [
         {
         "cat":"SPORTS",
@@ -22,6 +22,36 @@
                 {
                 "value":"$400",
                 "Q": "The \"Tour de France\" features these vehicles",
+                "A": "bicycles"
+                },
+                {
+                "value":"$500",
+                "Q": "The \"Tour de France\" features these vehicles",
+                "A": "bicycles"
+                }
+            ]
+        },
+        {
+        "cat":"SMORTS",
+        "questions": [
+                {
+                "value":"$100",
+                "Q": "Sporting event held in years 392 & 1896 but not in between",
+                "A": "the Olympics"
+                },
+                {
+                "value":"$200",
+                "Q": "The \"Tour de France\" features these vehicles",
+                "A": "bicycles"
+                },
+                {
+                "value":"$300",
+                "Q": "The \"Tour de Pance\" features these vehicles",
+                "A": "bicycles"
+                },
+                {
+                "value":"$400",
+                "Q": "The \"Tour de France\" features these vetiles",
                 "A": "bicycles"
                 },
                 {
