@@ -3,17 +3,13 @@
   <head>
     <meta charset="utf-8">
 
-    <title>Our superheroes</title>
+    <title>Random Jeopardy</title>
 
     <link href="https://fonts.googleapis.com/css?family=Faster+One" rel="stylesheet">
     <link rel="stylesheet" href="../web/resources/css/index.css">
   </head>
 
   <body>
-
-      <header>
-
-      </header>
 
       <table>
         <tr class="cats">
@@ -31,8 +27,41 @@
 
       </table>
 
+      <div class="box">
+      </div>
+      <div class="container">
+        <div class="block">
+          <h1>James</h1>
+          <h1 id="p1" data-negative>$0</h1>
+          <button id="sub" onclick="subp1()">-</button>
+          <button id="add" onclick="addp1()">+</button>
+          
+        </div>
+          
+        <div class="block">
+          <h1>Amy</h1>
+          <h1 id="p2" data-negative>0</h1>
+          <button id="sub" onclick="subp2()">-</button>
+          <button id="add" onclick="addp2()">+</button>
+
+        </div>
+          
+        <div class="block">
+          <h1>Matt</h1> 
+          <h1 id="p3" data-negative="0">0</h1> 
+          <button id="sub" onclick="subp3()">-</button>
+          <button id="add" onclick="addp3()">+</button>
+        </div>
+          
+      </div>
+     
+
 
     <script>
+
+    var p1 = 0;
+    var p2 = 0;
+    var p3 = 0;
 
     async function populate() {
 
@@ -43,13 +72,74 @@
       const jepText = await response.text();
 
       const jep = JSON.parse(jepText);
-      populateHeader(jep);
+      //populateHeader(jep);
       populateBoard(jep);
 
     }
 
     function randomIntFromInterval(min, max) { // min and max included 
       return Math.floor(Math.random() * (max - min + 1) + min)
+    }
+    function addp1() {
+      p1 = p1 + 100;
+      if (p1 < 0){
+        document.getElementById("p1").style.color = "red";
+        document.getElementById('p1').innerHTML = "-$" + Math.abs(p1).toString();
+      } else {
+        document.getElementById("p1").style.color = "white";
+        document.getElementById('p1').innerHTML = "$" + p1.toString();
+      }
+    }
+    function subp1() {  
+      p1 = p1 - 100;
+      if (p1 < 0){
+        document.getElementById("p1").style.color = "red";
+        document.getElementById('p1').innerHTML = "-$" + Math.abs(p1).toString();
+      } else {
+        document.getElementById("p1").style.color = "white";
+        document.getElementById('p1').innerHTML = "$" + p1.toString();
+      }
+    }
+    function addp2() {
+      p2 = p2 + 100;
+      if (p2 < 0){
+        document.getElementById("p2").style.color = "red";
+        document.getElementById('p2').innerHTML = "-$" + Math.abs(p2).toString();
+      } else {
+        document.getElementById("p2").style.color = "white";
+        document.getElementById('p2').innerHTML = "$" + p2.toString();
+      }
+    }
+    function subp2() {  
+      p2 = p2 - 100;
+      if (p2 < 0){
+        document.getElementById("p2").style.color = "red";
+        document.getElementById('p2').innerHTML = "-$" + Math.abs(p2).toString();
+      } else {
+        document.getElementById("p2").style.color = "white";
+        document.getElementById('p2').innerHTML = "$" + p2.toString();
+      }
+    }
+    function addp3() {
+      p3 = p3 + 100;
+      if (p3 < 0){
+        document.getElementById("p3").style.color = "red";
+        document.getElementById('p3').innerHTML = "-$" + Math.abs(p3).toString();
+      } else {
+        document.getElementById("p3").style.color = "white";
+        document.getElementById('p3').innerHTML = "$" + p3.toString();
+      }
+    }
+    function subp3() {  
+      p3 = p3 - 100;
+      document.getElementById('p3').innerHTML = "$" + p3.toString();
+      if (p3 < 0){
+        document.getElementById("p3").style.color = "red";
+        document.getElementById('p3').innerHTML = "-$" + Math.abs(p3).toString();
+      } else {
+        document.getElementById("p3").style.color = "white";
+        document.getElementById('p3').innerHTML = "$" + p3.toString();
+      }
     }
 
     function populateHeader(obj) {
@@ -67,6 +157,17 @@
       const three = document.querySelector('tr.three');
       const four  = document.querySelector('tr.four');
       const five  = document.querySelector('tr.five');
+      const qbox = document.querySelector('div.box');
+      const thisQ = document.createElement('h1');
+      const thisA = document.createElement('h1');
+
+      thisQ.onclick = function () {
+        thisQ.innerHTML = thisA.innerHTML; 
+      };
+
+      //document.getElementById(p1).innerHTML = p1;
+      //document.getElementById(p2).innerHTML = p2;
+      //document.getElementById(p1).innerHTML = p3;
 
       for (let i = 0; i < 6; i++) { 
 
@@ -86,35 +187,50 @@
           const clue1   = document.createElement('td');
           clue1.innerHTML = `${q1["value"]}`;
           clue1.onclick = function () {
-            clue1.innerHTML = `Q: ${q1["Q"]} \n A: ${q1["A"]}`;
+            thisQ.innerHTML = `${q1["Q"]}`;
+            thisA.innerHTML = `${q1["A"]}`;
+            qbox.appendChild(thisQ);
+            clue1.innerHTML = ``;
           };
           one.appendChild(clue1);
 
           const clue2   = document.createElement('td');
           clue2.innerHTML = `${q2["value"]}`;
           clue2.onclick = function () {
-            clue2.innerHTML = `Q: ${q2["Q"]} \n A: ${q2["A"]}`;
+            thisQ.innerHTML = `${q2["Q"]}`;
+            thisA.innerHTML = `${q2["A"]}`;
+            qbox.appendChild(thisQ); 
+            clue2.innerHTML = ``;
           };
           two.appendChild(clue2);
 
           const clue3   = document.createElement('td');
           clue3.innerHTML = `${q3["value"]}`;
           clue3.onclick = function () {
-            clue3.innerHTML = `Q: ${q3["Q"]} \n A: ${q3["A"]}`;
+            thisQ.innerHTML = `${q3["Q"]}`;
+            thisA.innerHTML = `${q3["A"]}`;
+            qbox.appendChild(thisQ); 
+            clue3.innerHTML = ``;
           };
           three.appendChild(clue3);
 
           const clue4   = document.createElement('td');
           clue4.innerHTML = `${q4["value"]}`;
           clue4.onclick = function () {
-            clue4.innerHTML = `Q: ${q4["Q"]} \n A: ${q4["A"]}`;
+            thisQ.innerHTML = `${q4["Q"]}`;
+            thisA.innerHTML = `${q4["A"]}`;
+            qbox.appendChild(thisQ); 
+            clue4.innerHTML = ``;
           };
           four.appendChild(clue4);
 
           const clue5   = document.createElement('td');
           clue5.innerHTML = `${q5["value"]}`;
           clue5.onclick = function () {
-            clue5.innerHTML = `Q: ${q5["Q"]} \n A: ${q5["A"]}`;
+            thisQ.innerHTML = `${q5["Q"]}`;
+            thisA.innerHTML = `${q5["A"]}`;
+            qbox.appendChild(thisQ); 
+            clue5.innerHTML = ``;
           };
           five.appendChild(clue5);
       }

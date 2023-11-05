@@ -1,32 +1,78 @@
 * {
   font-family: Tahoma, sans-serif;
-  background-color: #060ce9;
+  background-color: #0c0c94;
 }
 
 table {
   border: 2px solid;
-  background-color: #0c0c94;
-  border-color: black;
+  background-color: #060ce9;
+  border-color: white;
   width: 100%;
 }
+
+.box {
+  width: 97%;
+  border: 3px solid black;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+}
+
+.box-wrapper {
+  height: 95vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
 
 td {
   color: #fcba03;
   font-weight: 900;
   text-shadow: 2px 2px black;
   text-align: center;
+  font-size: 35px;
+  height: 100px;
 }
 th {
   color: White;
   font-weight: 900;
   text-shadow: 2px 2px black;
   text-align: center;
+  font-size: 30px;
 }
 
 h1 {
   color: White;
   font-weight: 900;
   text-shadow: 2px 2px black;
+  text-align: center;
+}
+
+button {
+  color: White;
+  font-weight: 900;
+  text-align: center;
+}
+
+
+h2 {
+  color: White;
+  font-weight: 900;
+  text-align: center;
+}
+
+
+.block {
+  display: inline-block;
+  width: 20%;
+  height: 100px;
+  padding: 10px;
+  margin: 10px;
+  background-color: #0c0c94;
+}
+.container  {
   text-align: center;
 }
 
