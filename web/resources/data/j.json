@@ -1,6 +1,68 @@
 {
     "J1": [
         {
+            "cat": "SPORTS",
+            "questions": [
+                {
+                    "value": "$200",
+                    "Q": "Sporting event held in years 392 & 1896 but not in between",
+                    "A": "the Olympics"
+                },
+                {
+                    "value": "$400",
+                    "Q": "The \"Tour de France\" features these vehicles",
+                    "A": "bicycles"
+                },
+                {
+                    "value": "$600",
+                    "Q": "Unusual characteristic of outfielder Pete Gray who played for the St. Louis Browns in 1945",
+                    "A": "having one arm"
+                },
+                {
+                    "value": "$800",
+                    "Q": "Undefeated bare-knuckle boxing champ in 1880s, he lost his 1st fight with gloves",
+                    "A": "(John L.) Sullivan"
+                },
+                {
+                    "value": "$1000",
+                    "Q": "Massachusetts holiday on which the Boston Marathon is run",
+                    "A": "Patriots Day"
+                }
+            ],
+            "board_pos": 2
+        },
+        {
+            "cat": "POTENT POTABLES",
+            "questions": [
+                {
+                    "value": "$200",
+                    "Q": "The grain from which sake wine is made",
+                    "A": "rice"
+                },
+                {
+                    "value": "$400",
+                    "Q": "Though most today don't drink because of Muslim law, these people first discovered distillation",
+                    "A": "the Arabs"
+                },
+                {
+                    "value": "$600",
+                    "Q": "Kosher wine company owned by Coca-Cola of New York",
+                    "A": "Mogen David"
+                },
+                {
+                    "value": "$800",
+                    "Q": "Flavoring common to pernod, ouzo, & arak",
+                    "A": "licorice (anise)"
+                },
+                {
+                    "value": "$1000",
+                    "Q": "Blended brandy that comes from a French district of the same name",
+                    "A": "Cognac"
+                }
+            ],
+            "board_pos": 3
+        },
+        {
             "cat": "CITIES",
             "questions": [
                 {
@@ -435,5 +497,4 @@
             "board_pos": 6
         }
     ]
-   
 }

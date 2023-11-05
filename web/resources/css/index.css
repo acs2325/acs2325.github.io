@@ -8,6 +8,7 @@ table {
   background-color: #060ce9;
   border-color: white;
   width: 100%;
+  table-layout: fixed
 }
 
 .box {
@@ -54,6 +55,7 @@ button {
   color: White;
   font-weight: 900;
   text-align: center;
+  font-size: 30px;
 }
 
 

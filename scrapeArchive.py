@@ -232,6 +232,7 @@ if __name__ == "__main__":
     
 
     jdict = {}
+    jdict2 = {}
 
     for ep in range(8001,8003):
 
@@ -241,9 +242,10 @@ if __name__ == "__main__":
         j2_all+=j2
 
     jdict["J1"] = j_all
-    jdict["J2"] = j2_all
+    jdict2["J2"] = j2_all
 
     with open("web/resources/data/j.json","w") as f: json.dump(jdict, f, indent = 4)
+    with open("web/resources/data/j2.json","w") as f: json.dump(jdict2, f, indent = 4)
 
     '''
 
