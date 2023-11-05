@@ -1,0 +1,998 @@
+{
+    "J1": [
+        {
+            "cat": "SPORTS",
+            "questions": [
+                {
+                    "value": "$200",
+                    "Q": "Sporting event held in years 392 & 1896 but not in between",
+                    "A": "the Olympics"
+                },
+                {
+                    "value": "$400",
+                    "Q": "The \"Tour de France\" features these vehicles",
+                    "A": "bicycles"
+                },
+                {
+                    "value": "$600",
+                    "Q": "Unusual characteristic of outfielder Pete Gray who played for the St. Louis Browns in 1945",
+                    "A": "having one arm"
+                },
+                {
+                    "value": "$800",
+                    "Q": "Undefeated bare-knuckle boxing champ in 1880s, he lost his 1st fight with gloves",
+                    "A": "(John L.) Sullivan"
+                },
+                {
+                    "value": "$1000",
+                    "Q": "Massachusetts holiday on which the Boston Marathon is run",
+                    "A": "Patriots Day"
+                }
+            ],
+            "board_pos": 2
+        },
+        {
+            "cat": "POTENT POTABLES",
+            "questions": [
+                {
+                    "value": "$200",
+                    "Q": "The grain from which sake wine is made",
+                    "A": "rice"
+                },
+                {
+                    "value": "$400",
+                    "Q": "Though most today don't drink because of Muslim law, these people first discovered distillation",
+                    "A": "the Arabs"
+                },
+                {
+                    "value": "$600",
+                    "Q": "Kosher wine company owned by Coca-Cola of New York",
+                    "A": "Mogen David"
+                },
+                {
+                    "value": "$800",
+                    "Q": "Flavoring common to pernod, ouzo, & arak",
+                    "A": "licorice (anise)"
+                },
+                {
+                    "value": "$1000",
+                    "Q": "Blended brandy that comes from a French district of the same name",
+                    "A": "Cognac"
+                }
+            ],
+            "board_pos": 3
+        },
+        {
+            "cat": "CITIES",
+            "questions": [
+                {
+                    "value": "$200",
+                    "Q": "It was America's 4th largest city when absorbed by New York in 1898",
+                    "A": "Brooklyn"
+                },
+                {
+                    "value": "$400",
+                    "Q": "The Russians renamed it Volgograd after a Soviet dictator was discredited",
+                    "A": "Stalingrad"
+                },
+                {
+                    "value": "$600",
+                    "Q": "Once the \"Paris of the Orient\", it's now called Ho Chi Minh City",
+                    "A": "Saigon"
+                },
+                {
+                    "value": "$800",
+                    "Q": "The Dutch built canals in this Indonesian capital they called Batavia",
+                    "A": "Jakarta"
+                },
+                {
+                    "value": "$1000",
+                    "Q": "Kinshasa, capital of Zaire, was originally named this after a Belgian king",
+                    "A": "Leopoldville"
+                }
+            ],
+            "board_pos": 4
+        },
+        {
+            "cat": "ACTORS & ROLES",
+            "questions": [
+                {
+                    "value": "$200",
+                    "Q": "While Anthony Perkins was in New York, an unnamed person did this film's shower scene murder",
+                    "A": "Psycho"
+                },
+                {
+                    "value": "$400",
+                    "Q": "She met Chevy Chase on \"Vacation\", but now spends her time with Billy Joel",
+                    "A": "Christie Brinkley"
+                },
+                {
+                    "value": "$600",
+                    "Q": "His roles have included a palm tree pitcher, an out-of-towner & a good neighbor",
+                    "A": "Jack Lemmon"
+                },
+                {
+                    "value": "$800",
+                    "Q": "In film, he was \"The Dresser\" for Albert Finney's \"Sir\"",
+                    "A": "Tom Courtenay"
+                },
+                {
+                    "value": "$1000",
+                    "Q": "On film & TV, they played Alice of \"Alice Doesn't Live Here Anymore\"",
+                    "A": "Ellen Burstyn and Linda Lavin"
+                }
+            ],
+            "board_pos": 5
+        },
+        {
+            "cat": "POTPOURRI",
+            "questions": [
+                {
+                    "value": "$200",
+                    "Q": "Location of the metatarsal arch",
+                    "A": "the foot"
+                },
+                {
+                    "value": "$400",
+                    "Q": "Color of the last & highest key on a piano",
+                    "A": "white"
+                },
+                {
+                    "value": "$600",
+                    "Q": "In song, they were asked to \"come out tonight, come out tonight\"",
+                    "A": "Buffalo gals"
+                },
+                {
+                    "value": "$800",
+                    "Q": "Originally it was worn by both men & women, then just men, then only Roman citizens",
+                    "A": "togas"
+                },
+                {
+                    "value": "$1000",
+                    "Q": "Symbol in common to the coat of arms of the Medici family & pawnshop signs",
+                    "A": "three gold balls"
+                }
+            ],
+            "board_pos": 6
+        },
+        {
+            "cat": "POETIC SUBJECTS",
+            "questions": [
+                {
+                    "value": "$200",
+                    "Q": "Stephen Crane wrote, \"Fast rode\" one of these men, \"ever waving an eager sword, 'to save my lady!\"'",
+                    "A": "a knight"
+                },
+                {
+                    "value": "$400",
+                    "Q": "\"Ma\u00eetre corbeau, sur un arbre perch\u00e9\", begins a Jean de la Fontaine poem about this type of bird",
+                    "A": "a crow (raven)"
+                },
+                {
+                    "value": "$600",
+                    "Q": "In haiku, hana are blossoms in general but most likely these, as in Buson's these \"having fallen the temple belongs to the branches\"",
+                    "A": "cherry blossoms"
+                },
+                {
+                    "value": "$800",
+                    "Q": "\"Not like the brazen giant of Greek fame\", says Emma Lazarus' poem called \"The New\" this",
+                    "A": "Colossus"
+                },
+                {
+                    "value": "$1000",
+                    "Q": "Time to release this sea creature, a Tennyson poem subject said to be a mile & a half wide with ship-crushing tentacles",
+                    "A": "the kraken"
+                }
+            ],
+            "board_pos": 1
+        },
+        {
+            "cat": "THE ROCKEFELLERS",
+            "questions": [
+                {
+                    "value": "$200",
+                    "Q": "One of the world's wealthiest men, John D. Rockefeller made his fortune in this business",
+                    "A": "oil"
+                },
+                {
+                    "value": "$400",
+                    "Q": "In the 1970s this member of the Rockefeller family served briefly as vice president",
+                    "A": "Nelson"
+                },
+                {
+                    "value": "$600",
+                    "Q": "Abby Aldrich Rockefeller was a founder of this NYC museum in 1929 & her son David was a longtime donor & trustee",
+                    "A": "the MoMA (the Museum of Modern Art)"
+                },
+                {
+                    "value": "$800",
+                    "Q": "From 1985 to 2015 Jay Rockefeller, also known as John D. Rockefeller IV, was a senator from this state",
+                    "A": "West Virginia"
+                },
+                {
+                    "value": "$1000",
+                    "Q": "Living to the age of 97, John D. was born when this man of Dutch descent was president, & died during FDR's second term",
+                    "A": "Van Buren"
+                }
+            ],
+            "board_pos": 2
+        },
+        {
+            "cat": "TREES COMPANY",
+            "questions": [
+                {
+                    "value": "$200",
+                    "Q": "It can refer to the uppermost layer of overlapping tree branches, or a cloth covering suspended over a bed",
+                    "A": "a canopy"
+                },
+                {
+                    "value": "$400",
+                    "Q": "FBI is shorthand for 3 common decomposers of dead trees: fungi, bacteria & these",
+                    "A": "insects"
+                },
+                {
+                    "value": "$600",
+                    "Q": "Pine trees are evergreens & also classified as these, for the scaly structures that house seeds",
+                    "A": "conifers"
+                },
+                {
+                    "value": "$800",
+                    "Q": "One of the 3 gifts of the Magi, this aromatic resin whose very name suggests sweet aroma comes from trees of the genus Boswellia",
+                    "A": "frankincense"
+                },
+                {
+                    "value": "$1000",
+                    "Q": "\"Green is the plane-tree in the square, the other trees are brown / They droop & pine for country air / The plane-tree loves it\" here",
+                    "A": "the town"
+                }
+            ],
+            "board_pos": 3
+        },
+        {
+            "cat": "WHO WAS THAT MASKED MAN?",
+            "questions": [
+                {
+                    "value": "$200",
+                    "Q": "In 2004's \"Spider-Man 2\", this actor gets unmasked in front of Kirsten Dunst, James Franco & a trainload of New Yorkers",
+                    "A": "(Tobey) Maguire"
+                },
+                {
+                    "value": "$400",
+                    "Q": "In 2017's \"Spider-Man: Homecoming\", this actor accidentally appears unmasked in front of his pal Ned",
+                    "A": "Tom Holland"
+                },
+                {
+                    "value": "$600",
+                    "Q": "In 2012's \"The Amazing Spider-Man\", this actor gets unmasked by NYPD captain Denis Leary",
+                    "A": "(Andrew) Garfield"
+                },
+                {
+                    "value": "$800",
+                    "Q": "(I'm Shameik Moore.) In \"Spider-Man Across the Spider-Verse\" I once again don the spider-mask as this Brooklyn teenager who follows in Peter Parker's webbed footsteps",
+                    "A": "Miles Morales"
+                },
+                {
+                    "value": "$1000",
+                    "Q": "He's the other title guy alongside Chris O'Donnell in 1997's \"Batman & Robin\", & he wishes we hadn't reminded you",
+                    "A": "George Clooney"
+                }
+            ],
+            "board_pos": 4
+        },
+        {
+            "cat": "YES, OUI",
+            "questions": [
+                {
+                    "value": "$200",
+                    "Q": "Evet in Izmir & Istanbul",
+                    "A": "Turkish"
+                },
+                {
+                    "value": "$400",
+                    "Q": "Hai on Hokkaido",
+                    "A": "Japanese"
+                },
+                {
+                    "value": "$600",
+                    "Q": "Tak in Gdansk",
+                    "A": "Polish"
+                },
+                {
+                    "value": "$800",
+                    "Q": "Naiin the Cyclades",
+                    "A": "Greek"
+                },
+                {
+                    "value": "$1000",
+                    "Q": "Bai in Bilbao & the Western Pyrenees",
+                    "A": "Basque"
+                }
+            ],
+            "board_pos": 5
+        },
+        {
+            "cat": "CANNERY",
+            "questions": [
+                {
+                    "value": "$200",
+                    "Q": "This brand with an insect name cans a few varieties of albacore tuna including chunk white",
+                    "A": "Bumble Bee"
+                },
+                {
+                    "value": "$400",
+                    "Q": "Just outside of Porto in this country, Conservas Pinhais has been canning sardines in tomato sauce since 1920",
+                    "A": "Portugal"
+                },
+                {
+                    "value": "$600",
+                    "Q": "A high-pressure machine is called this type of retort since it cooks fish in the cans with water vapor",
+                    "A": "steam"
+                },
+                {
+                    "value": "$800",
+                    "Q": "Seen here is a moody photo of a cannery on this Alaskan island that lends its name to a brown bear",
+                    "A": "Kodiak (Island)"
+                },
+                {
+                    "value": "$1000",
+                    "Q": "This author said of Monterey, \"The corrugated iron of the canneries glows with the pearly lucence of platinum\"",
+                    "A": "John Steinbeck"
+                }
+            ],
+            "board_pos": 6
+        },
+        {
+            "cat": "STARTS WITH \"V\"",
+            "questions": [
+                {
+                    "value": "$200",
+                    "Q": "From Latin for \"hunting\", it's the flesh of a deer",
+                    "A": "venison"
+                },
+                {
+                    "value": "$400",
+                    "Q": "Broadcasting's VOA stands for this",
+                    "A": "Voice of America"
+                },
+                {
+                    "value": "$600",
+                    "Q": "2 of 4 independent countries that begin with \"V\"",
+                    "A": "(2 of) Venezuela, Vatican City, Vietnam or Vanuatu"
+                },
+                {
+                    "value": "$800",
+                    "Q": "From Old French \"to come\", it's the location of a gathering such as an Olympic event",
+                    "A": "a venue"
+                },
+                {
+                    "value": "$1000",
+                    "Q": "The foremost position in an army or fleet",
+                    "A": "a vanguard"
+                }
+            ],
+            "board_pos": 1
+        },
+        {
+            "cat": "THE 1950s",
+            "questions": [
+                {
+                    "value": "$200",
+                    "Q": "A reproduction of this famous ship sailed from Plymouth, England to Mass. in 1957",
+                    "A": "the Mayflower"
+                },
+                {
+                    "value": "$400",
+                    "Q": "Testifying before a Senate committee in 1957, Teamster pres. Dave Beck invoked this some 80 times",
+                    "A": "the 5th Amendment"
+                },
+                {
+                    "value": "$600",
+                    "Q": "In April 1955, for the 1st time in 33 years of publication, Reader's Digest carried these",
+                    "A": "advertisements"
+                },
+                {
+                    "value": "$800",
+                    "Q": "Occupation of William Howard Mays that put him in the news",
+                    "A": "playing baseball"
+                },
+                {
+                    "value": "$1000",
+                    "Q": "This industrialist sold RKO Pictures to General Tire in July 1955",
+                    "A": "Howard Hughes"
+                }
+            ],
+            "board_pos": 2
+        },
+        {
+            "cat": "LANDMARKS",
+            "questions": [
+                {
+                    "value": "$200",
+                    "Q": "On the Vienna memorial to this composer, the figures represent his 9 symphonies",
+                    "A": "Beethoven"
+                },
+                {
+                    "value": "$400",
+                    "Q": "You have to lie down atop a castle & hang your head over the wall if you want to kiss this",
+                    "A": "the Blarney Stone"
+                },
+                {
+                    "value": "$600",
+                    "Q": "In the 1830s part of this palace became a museum dedicated \"to all the glories of France\"",
+                    "A": "Versailles"
+                },
+                {
+                    "value": "$800",
+                    "Q": "The coronation throne of England is in the chapel of Edward the Confessor here",
+                    "A": "Westminster Abbey"
+                },
+                {
+                    "value": "$1000",
+                    "Q": "This museum by the Hudson houses the Metropolitan Museum's collection of medieval art",
+                    "A": "the Cloisters"
+                }
+            ],
+            "board_pos": 3
+        },
+        {
+            "cat": "\"WILD\" MEN",
+            "questions": [
+                {
+                    "value": "$200",
+                    "Q": "When Doris Day played \"Calamity Jane\", Howard Keel played him",
+                    "A": "Wild Bill Hickok"
+                },
+                {
+                    "value": "$400",
+                    "Q": "He wrote his only novel & all of his plays in the last decade of his life",
+                    "A": "Oscar Wilde"
+                },
+                {
+                    "value": "$600",
+                    "Q": "Elizabeth Taylor's 2nd husband",
+                    "A": "Michael Wilding"
+                },
+                {
+                    "value": "$800",
+                    "Q": "He won his 1st 2 Oscars for writing & directing \"The Lost Weekend\"",
+                    "A": "Billy Wilder"
+                },
+                {
+                    "value": "$1000",
+                    "Q": "He was Linda Darnell's lover in the racy 1947 film \"Forever Amber\"",
+                    "A": "Cornel Wilde"
+                }
+            ],
+            "board_pos": 5
+        },
+        {
+            "cat": "PERFUME",
+            "questions": [
+                {
+                    "value": "$200",
+                    "Q": "A type of Buddhism, or the Shiseido perfume you might wear while meditating",
+                    "A": "Zen"
+                },
+                {
+                    "value": "$400",
+                    "Q": "Afro-Brazilian dance in title of the following; it's also the name of a new perfume: \"So I come back to my first note as I must come back to you / I will pour into that one note all the love I feel for you / Any one who wants the whole show...\"",
+                    "A": "the Samba"
+                },
+                {
+                    "value": "$600",
+                    "Q": "The name of Evyan's ever-popular perfume, or what the woman on the bottle is exposing",
+                    "A": "White Shoulders"
+                },
+                {
+                    "value": "$800",
+                    "Q": "He designs clothes for Chanel, but puts his initials on his own perfume, KL",
+                    "A": "Karl Lagerfeld"
+                },
+                {
+                    "value": "$1000",
+                    "Q": "Paris-based jeweler whose Panthere perfume was inspired by panther-shaped jewelry",
+                    "A": "Cartier"
+                }
+            ],
+            "board_pos": 6
+        }
+    ],
+    "J2": [
+        {
+            "cat": "ANATOMY",
+            "questions": [
+                {
+                    "value": "$200",
+                    "Q": "Sporting event held in years 392 & 1896 but not in between",
+                    "A": "the Olympics"
+                },
+                {
+                    "value": "$400",
+                    "Q": "The \"Tour de France\" features these vehicles",
+                    "A": "bicycles"
+                },
+                {
+                    "value": "$600",
+                    "Q": "Unusual characteristic of outfielder Pete Gray who played for the St. Louis Browns in 1945",
+                    "A": "having one arm"
+                },
+                {
+                    "value": "$800",
+                    "Q": "Undefeated bare-knuckle boxing champ in 1880s, he lost his 1st fight with gloves",
+                    "A": "(John L.) Sullivan"
+                },
+                {
+                    "value": "$1000",
+                    "Q": "Massachusetts holiday on which the Boston Marathon is run",
+                    "A": "Patriots Day"
+                }
+            ],
+            "board_pos": 2
+        },
+        {
+            "cat": "ABBREVIATIONS",
+            "questions": [
+                {
+                    "value": "$200",
+                    "Q": "The grain from which sake wine is made",
+                    "A": "rice"
+                },
+                {
+                    "value": "$400",
+                    "Q": "Though most today don't drink because of Muslim law, these people first discovered distillation",
+                    "A": "the Arabs"
+                },
+                {
+                    "value": "$600",
+                    "Q": "Kosher wine company owned by Coca-Cola of New York",
+                    "A": "Mogen David"
+                },
+                {
+                    "value": "$800",
+                    "Q": "Flavoring common to pernod, ouzo, & arak",
+                    "A": "licorice (anise)"
+                },
+                {
+                    "value": "$1000",
+                    "Q": "Blended brandy that comes from a French district of the same name",
+                    "A": "Cognac"
+                }
+            ],
+            "board_pos": 3
+        },
+        {
+            "cat": "WORLD WAR II",
+            "questions": [
+                {
+                    "value": "$200",
+                    "Q": "It was America's 4th largest city when absorbed by New York in 1898",
+                    "A": "Brooklyn"
+                },
+                {
+                    "value": "$400",
+                    "Q": "The Russians renamed it Volgograd after a Soviet dictator was discredited",
+                    "A": "Stalingrad"
+                },
+                {
+                    "value": "$600",
+                    "Q": "Once the \"Paris of the Orient\", it's now called Ho Chi Minh City",
+                    "A": "Saigon"
+                },
+                {
+                    "value": "$800",
+                    "Q": "The Dutch built canals in this Indonesian capital they called Batavia",
+                    "A": "Jakarta"
+                },
+                {
+                    "value": "$1000",
+                    "Q": "Kinshasa, capital of Zaire, was originally named this after a Belgian king",
+                    "A": "Leopoldville"
+                }
+            ],
+            "board_pos": 4
+        },
+        {
+            "cat": "THEATRE",
+            "questions": [
+                {
+                    "value": "$200",
+                    "Q": "While Anthony Perkins was in New York, an unnamed person did this film's shower scene murder",
+                    "A": "Psycho"
+                },
+                {
+                    "value": "$400",
+                    "Q": "She met Chevy Chase on \"Vacation\", but now spends her time with Billy Joel",
+                    "A": "Christie Brinkley"
+                },
+                {
+                    "value": "$600",
+                    "Q": "His roles have included a palm tree pitcher, an out-of-towner & a good neighbor",
+                    "A": "Jack Lemmon"
+                },
+                {
+                    "value": "$800",
+                    "Q": "In film, he was \"The Dresser\" for Albert Finney's \"Sir\"",
+                    "A": "Tom Courtenay"
+                },
+                {
+                    "value": "$1000",
+                    "Q": "On film & TV, they played Alice of \"Alice Doesn't Live Here Anymore\"",
+                    "A": "Ellen Burstyn and Linda Lavin"
+                }
+            ],
+            "board_pos": 5
+        },
+        {
+            "cat": "11-LETTER WORDS",
+            "questions": [
+                {
+                    "value": "$200",
+                    "Q": "Location of the metatarsal arch",
+                    "A": "the foot"
+                },
+                {
+                    "value": "$400",
+                    "Q": "Color of the last & highest key on a piano",
+                    "A": "white"
+                },
+                {
+                    "value": "$600",
+                    "Q": "In song, they were asked to \"come out tonight, come out tonight\"",
+                    "A": "Buffalo gals"
+                },
+                {
+                    "value": "$800",
+                    "Q": "Originally it was worn by both men & women, then just men, then only Roman citizens",
+                    "A": "togas"
+                },
+                {
+                    "value": "$1000",
+                    "Q": "Symbol in common to the coat of arms of the Medici family & pawnshop signs",
+                    "A": "three gold balls"
+                }
+            ],
+            "board_pos": 6
+        },
+        {
+            "cat": "HISTORY",
+            "questions": [
+                {
+                    "value": "$200",
+                    "Q": "Stephen Crane wrote, \"Fast rode\" one of these men, \"ever waving an eager sword, 'to save my lady!\"'",
+                    "A": "a knight"
+                },
+                {
+                    "value": "$400",
+                    "Q": "\"Ma\u00eetre corbeau, sur un arbre perch\u00e9\", begins a Jean de la Fontaine poem about this type of bird",
+                    "A": "a crow (raven)"
+                },
+                {
+                    "value": "$600",
+                    "Q": "In haiku, hana are blossoms in general but most likely these, as in Buson's these \"having fallen the temple belongs to the branches\"",
+                    "A": "cherry blossoms"
+                },
+                {
+                    "value": "$800",
+                    "Q": "\"Not like the brazen giant of Greek fame\", says Emma Lazarus' poem called \"The New\" this",
+                    "A": "Colossus"
+                },
+                {
+                    "value": "$1000",
+                    "Q": "Time to release this sea creature, a Tennyson poem subject said to be a mile & a half wide with ship-crushing tentacles",
+                    "A": "the kraken"
+                }
+            ],
+            "board_pos": 1
+        },
+        {
+            "cat": "THE GULF OF MEXICO",
+            "questions": [
+                {
+                    "value": "$200",
+                    "Q": "One of the world's wealthiest men, John D. Rockefeller made his fortune in this business",
+                    "A": "oil"
+                },
+                {
+                    "value": "$400",
+                    "Q": "In the 1970s this member of the Rockefeller family served briefly as vice president",
+                    "A": "Nelson"
+                },
+                {
+                    "value": "$600",
+                    "Q": "Abby Aldrich Rockefeller was a founder of this NYC museum in 1929 & her son David was a longtime donor & trustee",
+                    "A": "the MoMA (the Museum of Modern Art)"
+                },
+                {
+                    "value": "$800",
+                    "Q": "From 1985 to 2015 Jay Rockefeller, also known as John D. Rockefeller IV, was a senator from this state",
+                    "A": "West Virginia"
+                },
+                {
+                    "value": "$1000",
+                    "Q": "Living to the age of 97, John D. was born when this man of Dutch descent was president, & died during FDR's second term",
+                    "A": "Van Buren"
+                }
+            ],
+            "board_pos": 2
+        },
+        {
+            "cat": "CHEMISTRY",
+            "questions": [
+                {
+                    "value": "$200",
+                    "Q": "It can refer to the uppermost layer of overlapping tree branches, or a cloth covering suspended over a bed",
+                    "A": "a canopy"
+                },
+                {
+                    "value": "$400",
+                    "Q": "FBI is shorthand for 3 common decomposers of dead trees: fungi, bacteria & these",
+                    "A": "insects"
+                },
+                {
+                    "value": "$600",
+                    "Q": "Pine trees are evergreens & also classified as these, for the scaly structures that house seeds",
+                    "A": "conifers"
+                },
+                {
+                    "value": "$800",
+                    "Q": "One of the 3 gifts of the Magi, this aromatic resin whose very name suggests sweet aroma comes from trees of the genus Boswellia",
+                    "A": "frankincense"
+                },
+                {
+                    "value": "$1000",
+                    "Q": "\"Green is the plane-tree in the square, the other trees are brown / They droop & pine for country air / The plane-tree loves it\" here",
+                    "A": "the town"
+                }
+            ],
+            "board_pos": 3
+        },
+        {
+            "cat": "POP INSTRUMENTALS",
+            "questions": [
+                {
+                    "value": "$200",
+                    "Q": "In 2004's \"Spider-Man 2\", this actor gets unmasked in front of Kirsten Dunst, James Franco & a trainload of New Yorkers",
+                    "A": "(Tobey) Maguire"
+                },
+                {
+                    "value": "$400",
+                    "Q": "In 2017's \"Spider-Man: Homecoming\", this actor accidentally appears unmasked in front of his pal Ned",
+                    "A": "Tom Holland"
+                },
+                {
+                    "value": "$600",
+                    "Q": "In 2012's \"The Amazing Spider-Man\", this actor gets unmasked by NYPD captain Denis Leary",
+                    "A": "(Andrew) Garfield"
+                },
+                {
+                    "value": "$800",
+                    "Q": "(I'm Shameik Moore.) In \"Spider-Man Across the Spider-Verse\" I once again don the spider-mask as this Brooklyn teenager who follows in Peter Parker's webbed footsteps",
+                    "A": "Miles Morales"
+                },
+                {
+                    "value": "$1000",
+                    "Q": "He's the other title guy alongside Chris O'Donnell in 1997's \"Batman & Robin\", & he wishes we hadn't reminded you",
+                    "A": "George Clooney"
+                }
+            ],
+            "board_pos": 4
+        },
+        {
+            "cat": "MONTHLY PEOPLE, REAL & IMAGINED",
+            "questions": [
+                {
+                    "value": "$200",
+                    "Q": "Evet in Izmir & Istanbul",
+                    "A": "Turkish"
+                },
+                {
+                    "value": "$400",
+                    "Q": "Hai on Hokkaido",
+                    "A": "Japanese"
+                },
+                {
+                    "value": "$600",
+                    "Q": "Tak in Gdansk",
+                    "A": "Polish"
+                },
+                {
+                    "value": "$800",
+                    "Q": "Naiin the Cyclades",
+                    "A": "Greek"
+                },
+                {
+                    "value": "$1000",
+                    "Q": "Bai in Bilbao & the Western Pyrenees",
+                    "A": "Basque"
+                }
+            ],
+            "board_pos": 5
+        },
+        {
+            "cat": "PLAY \"FREE\" WORDS",
+            "questions": [
+                {
+                    "value": "$200",
+                    "Q": "This brand with an insect name cans a few varieties of albacore tuna including chunk white",
+                    "A": "Bumble Bee"
+                },
+                {
+                    "value": "$400",
+                    "Q": "Just outside of Porto in this country, Conservas Pinhais has been canning sardines in tomato sauce since 1920",
+                    "A": "Portugal"
+                },
+                {
+                    "value": "$600",
+                    "Q": "A high-pressure machine is called this type of retort since it cooks fish in the cans with water vapor",
+                    "A": "steam"
+                },
+                {
+                    "value": "$800",
+                    "Q": "Seen here is a moody photo of a cannery on this Alaskan island that lends its name to a brown bear",
+                    "A": "Kodiak (Island)"
+                },
+                {
+                    "value": "$1000",
+                    "Q": "This author said of Monterey, \"The corrugated iron of the canneries glows with the pearly lucence of platinum\"",
+                    "A": "John Steinbeck"
+                }
+            ],
+            "board_pos": 6
+        },
+        {
+            "cat": "U.S. STATES",
+            "questions": [
+                {
+                    "value": "$200",
+                    "Q": "From Latin for \"hunting\", it's the flesh of a deer",
+                    "A": "venison"
+                },
+                {
+                    "value": "$400",
+                    "Q": "Broadcasting's VOA stands for this",
+                    "A": "Voice of America"
+                },
+                {
+                    "value": "$600",
+                    "Q": "2 of 4 independent countries that begin with \"V\"",
+                    "A": "(2 of) Venezuela, Vatican City, Vietnam or Vanuatu"
+                },
+                {
+                    "value": "$800",
+                    "Q": "From Old French \"to come\", it's the location of a gathering such as an Olympic event",
+                    "A": "a venue"
+                },
+                {
+                    "value": "$1000",
+                    "Q": "The foremost position in an army or fleet",
+                    "A": "a vanguard"
+                }
+            ],
+            "board_pos": 1
+        },
+        {
+            "cat": "FRENCH ROYALTY",
+            "questions": [
+                {
+                    "value": "$200",
+                    "Q": "A reproduction of this famous ship sailed from Plymouth, England to Mass. in 1957",
+                    "A": "the Mayflower"
+                },
+                {
+                    "value": "$400",
+                    "Q": "Testifying before a Senate committee in 1957, Teamster pres. Dave Beck invoked this some 80 times",
+                    "A": "the 5th Amendment"
+                },
+                {
+                    "value": "$600",
+                    "Q": "In April 1955, for the 1st time in 33 years of publication, Reader's Digest carried these",
+                    "A": "advertisements"
+                },
+                {
+                    "value": "$800",
+                    "Q": "Occupation of William Howard Mays that put him in the news",
+                    "A": "playing baseball"
+                },
+                {
+                    "value": "$1000",
+                    "Q": "This industrialist sold RKO Pictures to General Tire in July 1955",
+                    "A": "Howard Hughes"
+                }
+            ],
+            "board_pos": 2
+        },
+        {
+            "cat": "LITERATURE",
+            "questions": [
+                {
+                    "value": "$200",
+                    "Q": "On the Vienna memorial to this composer, the figures represent his 9 symphonies",
+                    "A": "Beethoven"
+                },
+                {
+                    "value": "$400",
+                    "Q": "You have to lie down atop a castle & hang your head over the wall if you want to kiss this",
+                    "A": "the Blarney Stone"
+                },
+                {
+                    "value": "$600",
+                    "Q": "In the 1830s part of this palace became a museum dedicated \"to all the glories of France\"",
+                    "A": "Versailles"
+                },
+                {
+                    "value": "$800",
+                    "Q": "The coronation throne of England is in the chapel of Edward the Confessor here",
+                    "A": "Westminster Abbey"
+                },
+                {
+                    "value": "$1000",
+                    "Q": "This museum by the Hudson houses the Metropolitan Museum's collection of medieval art",
+                    "A": "the Cloisters"
+                }
+            ],
+            "board_pos": 3
+        },
+        {
+            "cat": "LEFTOVERS",
+            "questions": [
+                {
+                    "value": "$200",
+                    "Q": "When Doris Day played \"Calamity Jane\", Howard Keel played him",
+                    "A": "Wild Bill Hickok"
+                },
+                {
+                    "value": "$400",
+                    "Q": "He wrote his only novel & all of his plays in the last decade of his life",
+                    "A": "Oscar Wilde"
+                },
+                {
+                    "value": "$600",
+                    "Q": "Elizabeth Taylor's 2nd husband",
+                    "A": "Michael Wilding"
+                },
+                {
+                    "value": "$800",
+                    "Q": "He won his 1st 2 Oscars for writing & directing \"The Lost Weekend\"",
+                    "A": "Billy Wilder"
+                },
+                {
+                    "value": "$1000",
+                    "Q": "He was Linda Darnell's lover in the racy 1947 film \"Forever Amber\"",
+                    "A": "Cornel Wilde"
+                }
+            ],
+            "board_pos": 5
+        },
+        {
+            "cat": "FLOWERS",
+            "questions": [
+                {
+                    "value": "$200",
+                    "Q": "A type of Buddhism, or the Shiseido perfume you might wear while meditating",
+                    "A": "Zen"
+                },
+                {
+                    "value": "$400",
+                    "Q": "Afro-Brazilian dance in title of the following; it's also the name of a new perfume: \"So I come back to my first note as I must come back to you / I will pour into that one note all the love I feel for you / Any one who wants the whole show...\"",
+                    "A": "the Samba"
+                },
+                {
+                    "value": "$600",
+                    "Q": "The name of Evyan's ever-popular perfume, or what the woman on the bottle is exposing",
+                    "A": "White Shoulders"
+                },
+                {
+                    "value": "$800",
+                    "Q": "He designs clothes for Chanel, but puts his initials on his own perfume, KL",
+                    "A": "Karl Lagerfeld"
+                },
+                {
+                    "value": "$1000",
+                    "Q": "Paris-based jeweler whose Panthere perfume was inspired by panther-shaped jewelry",
+                    "A": "Cartier"
+                }
+            ],
+            "board_pos": 6
+        }
+    ]
+}
