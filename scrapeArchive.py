@@ -33,6 +33,7 @@ def scrapeEpsiode(ep = 8000, verbose = False):
     date_object = datetime.strptime(date, '%Y-%m-%d')
     if (date_object < datetime(2013, 1, 1)):
         print("\n\tThis episode is too old: aired on {}\n".format(date))
+        time.sleep(3)
         return -1,-1
    
     #Get Jeopardy Round and Double Jeopardy Round Objetcs
@@ -112,8 +113,8 @@ def scrapeEpsiode(ep = 8000, verbose = False):
         for j in range(1,7):
             vqa_dict = {}
 
-            clue_id     = "clue_J_{}_{}".format(category_dict["board_pos"],j)
-            response_id = "clue_J_{}_{}_r".format(category_dict["board_pos"],j)
+            clue_id     = "clue_DJ_{}_{}".format(category_dict["board_pos"],j)
+            response_id = "clue_DJ_{}_{}_r".format(category_dict["board_pos"],j)
             #print(clue_id,response_id)
 
             if soup.find(id=clue_id) == None : 
@@ -163,16 +164,16 @@ if __name__ == "__main__":
         j_all+=j
         j2_all+=j2
         print("Episode {} Successfully scraped!\n\n".format(ep))
-        time.sleep(3)
+        time.sleep(5)
         if (games_scraped % 20 == 0):
                 jdict["J1"] = j_all
                 jdict2["J2"] = j2_all
-                with open("web/resources/data/j.json","w") as f: json.dump(jdict, f, indent = 4)
-                with open("web/resources/data/j2.json","w") as f: json.dump(jdict2, f, indent = 4)
+                with open("web/resources/data/j_b.json","w") as f: json.dump(jdict, f, indent = 4)
+                with open("web/resources/data/j2_b.json","w") as f: json.dump(jdict2, f, indent = 4)
         games_scraped+=1
 
     jdict["J1"] = j_all
     jdict2["J2"] = j2_all
 
-    with open("web/resources/data/j.json","w") as f: json.dump(jdict, f, indent = 4)
-    with open("web/resources/data/j2.json","w") as f: json.dump(jdict2, f, indent = 4)
+    with open("web/resources/data/j_b.json","w") as f: json.dump(jdict, f, indent = 4)
+    with open("web/resources/data/j2_b.json","w") as f: json.dump(jdict2, f, indent = 4)
