@@ -33,24 +33,24 @@
         <div class="block">
           <h1>James</h1>
           <h1 id="p1" data-negative>$0</h1>
-          <button id="sub" onclick="subp1()">-</button>
-          <button id="add" onclick="addp1()">+</button>
+          <button id="sub" onclick="subp1(amt)">-</button>
+          <button id="add" onclick="addp1(amt)">+</button>
           
         </div>
           
         <div class="block">
           <h1>Amy</h1>
           <h1 id="p2" data-negative>$0</h1>
-          <button id="sub" onclick="subp2()">-</button>
-          <button id="add" onclick="addp2()">+</button>
+          <button id="sub" onclick="subp2(amt)">-</button>
+          <button id="add" onclick="addp2(amt)">+</button>
 
         </div>
           
         <div class="block">
           <h1>Matt</h1> 
           <h1 id="p3" data-negative="0">$0</h1> 
-          <button id="sub" onclick="subp3()">-</button>
-          <button id="add" onclick="addp3()">+</button>
+          <button id="sub" onclick="subp3(amt)">-</button>
+          <button id="add" onclick="addp3(amt)">+</button>
         </div>
           
       </div>
@@ -62,6 +62,7 @@
     var p1 = 0;
     var p2 = 0;
     var p3 = 0;
+    var amt = 0;
 
     var bucket = [];
 
@@ -88,8 +89,8 @@
 
     }
 
-    function addp1() {
-      p1 = p1 + 100;
+    function addp1(amt) {
+      p1 = p1 + amt;
       if (p1 < 0){
         document.getElementById("p1").style.color = "red";
         document.getElementById('p1').innerHTML = "-$" + Math.abs(p1).toString();
@@ -98,8 +99,8 @@
         document.getElementById('p1').innerHTML = "$" + p1.toString();
       }
     }
-    function subp1() {  
-      p1 = p1 - 100;
+    function subp1(amt) {  
+      p1 = p1 - amt;
       if (p1 < 0){
         document.getElementById("p1").style.color = "red";
         document.getElementById('p1').innerHTML = "-$" + Math.abs(p1).toString();
@@ -108,8 +109,8 @@
         document.getElementById('p1').innerHTML = "$" + p1.toString();
       }
     }
-    function addp2() {
-      p2 = p2 + 100;
+    function addp2(amt) {
+      p2 = p2 + amt;
       if (p2 < 0){
         document.getElementById("p2").style.color = "red";
         document.getElementById('p2').innerHTML = "-$" + Math.abs(p2).toString();
@@ -118,8 +119,8 @@
         document.getElementById('p2').innerHTML = "$" + p2.toString();
       }
     }
-    function subp2() {  
-      p2 = p2 - 100;
+    function subp2(amt) {  
+      p2 = p2 - amt;
       if (p2 < 0){
         document.getElementById("p2").style.color = "red";
         document.getElementById('p2').innerHTML = "-$" + Math.abs(p2).toString();
@@ -128,8 +129,8 @@
         document.getElementById('p2').innerHTML = "$" + p2.toString();
       }
     }
-    function addp3() {
-      p3 = p3 + 100;
+    function addp3(amt) {
+      p3 = p3 + amt;
       if (p3 < 0){
         document.getElementById("p3").style.color = "red";
         document.getElementById('p3').innerHTML = "-$" + Math.abs(p3).toString();
@@ -138,8 +139,8 @@
         document.getElementById('p3').innerHTML = "$" + p3.toString();
       }
     }
-    function subp3() {  
-      p3 = p3 - 100;
+    function subp3(amt) {  
+      p3 = p3 - amt;
       document.getElementById('p3').innerHTML = "$" + p3.toString();
       if (p3 < 0){
         document.getElementById("p3").style.color = "red";
@@ -198,6 +199,7 @@
             thisQ.innerHTML = `${q1["Q"]}`;
             thisA.innerHTML = `${q1["A"]}`;
             qbox.appendChild(thisQ);
+            amt = parseInt(`${q1["value"]}`.substring(1))
             clue1.innerHTML = ``;
           };
           one.appendChild(clue1);
@@ -209,6 +211,7 @@
             thisA.innerHTML = `${q2["A"]}`;
             qbox.appendChild(thisQ); 
             clue2.innerHTML = ``;
+            amt = parseInt(`${q2["value"]}`.substring(1))
           };
           two.appendChild(clue2);
 
@@ -219,6 +222,7 @@
             thisA.innerHTML = `${q3["A"]}`;
             qbox.appendChild(thisQ); 
             clue3.innerHTML = ``;
+            amt = parseInt(`${q3["value"]}`.substring(1))
           };
           three.appendChild(clue3);
 
@@ -229,6 +233,7 @@
             thisA.innerHTML = `${q4["A"]}`;
             qbox.appendChild(thisQ); 
             clue4.innerHTML = ``;
+            amt = parseInt(`${q4["value"]}`.substring(1))
           };
           four.appendChild(clue4);
 
@@ -239,6 +244,7 @@
             thisA.innerHTML = `${q5["A"]}`;
             qbox.appendChild(thisQ); 
             clue5.innerHTML = ``;
+            amt = parseInt(`${q5["value"]}`.substring(1))
           };
           five.appendChild(clue5);
       }
